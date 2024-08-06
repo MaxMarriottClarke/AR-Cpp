@@ -1,0 +1,3 @@
+/Users/max/Desktop/GithubProjects/AR-Cpp/CMakeFiles/sudoku-ar.dir
+/Users/max/Desktop/GithubProjects/AR-Cpp/CMakeFiles/edit_cache.dir
+/Users/max/Desktop/GithubProjects/AR-Cpp/CMakeFiles/rebuild_cache.dir
