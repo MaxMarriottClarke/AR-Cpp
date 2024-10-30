@@ -2,7 +2,7 @@
  * sudoku-solver.h
  *
  * Created on: 29 June 2022
- * Author: EtoileScintillante
+ * Author: MaxMarriott-Clarke
  */
 
 #ifndef __SUDOKU_FUNCTIONS__
