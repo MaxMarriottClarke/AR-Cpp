@@ -1,5 +1,12 @@
 #include "sudoku-solver.h"
-
+/**
+ * @brief Prints a 9x9 Sudoku grid to the console.
+ * 
+ * This function takes a 9x9 Sudoku grid represented as a 2D vector and prints it 
+ * in a readable format. Each row is printed on a new line, with numbers separated by spaces.
+ * 
+ * @param grid A 9x9 vector of integers representing the Sudoku grid.
+ */
 void printSudoku(std::vector<std::vector< int > > grid)
 {
     printf("\n");
