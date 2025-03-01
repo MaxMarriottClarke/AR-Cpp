@@ -2,12 +2,7 @@
 
 Welcome to the C++ Sudoku Solver using Augmented Reality! This project allows users to capture Sudoku puzzles in real time and solve them instantly using augmented reality.
 
-## Features
-
-- **Augmented Reality Integration:** Capture Sudoku puzzles using a camera and see solutions overlaid in real-time.
-- **Fast and Efficient Solving:** Utilizes advanced algorithms for quick and accurate puzzle solving.
-- **User-Friendly Interface:** Intuitive controls and display for an enhanced user experience.
-- **Cross-Platform Compatibility:** Works on multiple operating systems with the appropriate setup.
+Just for a bit of fun :) 
 
 ## Installation
 
